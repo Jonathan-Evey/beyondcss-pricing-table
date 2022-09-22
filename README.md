@@ -1,1 +1,1 @@
-# sass-starter-template
+# project from Kevin Powell's beyond CSS course
